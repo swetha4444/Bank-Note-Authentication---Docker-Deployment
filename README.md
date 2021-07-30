@@ -5,3 +5,14 @@
 ## Flask API Interface
 Implemented using ```Flasgger``` library. <br><br>
 ![image](https://user-images.githubusercontent.com/68152189/127551373-fafaadb4-a1df-4556-92b7-d39c1088b992.png)
+
+## Dockerize the Application
+* Write requirments.txt
+* Write Docker File
+  * FROM
+  * COPY
+  * EXPOSE
+  * RUN 
+  * CMD
+* Build Docker Image
+* Run the Flask App
