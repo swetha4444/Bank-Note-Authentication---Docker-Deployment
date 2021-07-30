@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 12:50:04 2020
-
-@author: krish.naik
-"""
-
 from flask import Flask, request
 import numpy as np
 import pickle
@@ -81,6 +74,6 @@ def predict_note_file():
     return str(list(prediction))
 
 if __name__=='__main__':
-    app.run(host='0.0.0.0',port=8000)
+    app.run()
     
     
