@@ -3,11 +3,6 @@
 ![image](https://user-images.githubusercontent.com/68152189/127547183-b3859671-adb7-4add-94ef-690face12717.png)
 <img src="https://user-images.githubusercontent.com/68152189/127616327-4350809b-0b93-4a60-bbb3-65b5287c2ce7.png" width=500></img>
 
-
-## Flask API Interface
-Implemented using ```Flasgger``` library. <br><br>
-![image](https://user-images.githubusercontent.com/68152189/127551373-fafaadb4-a1df-4556-92b7-d39c1088b992.png)
-
 ## Dockerize the Application
 * Write requirments.txt
 * Write Docker File
