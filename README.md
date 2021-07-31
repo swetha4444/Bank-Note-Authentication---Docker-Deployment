@@ -23,7 +23,7 @@ docker run -p 8000:8000 money_api
 
   ![image](https://user-images.githubusercontent.com/68152189/127619190-96550e40-f4c9-4f45-9a6b-5ffd929f2c15.png)
 
-### Application deployed in Docker
+## Application deployed in Docker
 #### Run in: 
 ```
 http://192.168.99.100:8000/apidocs/
