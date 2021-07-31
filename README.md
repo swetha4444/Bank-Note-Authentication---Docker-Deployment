@@ -16,7 +16,7 @@ docker build -t api_name .
   ![image](https://user-images.githubusercontent.com/68152189/127616127-d5362acd-6ec4-4b72-8b7b-41e8a58b9375.png)
 * Run the Flask App
 ```
-docker run -p 8000:8000 money_api
+docker run -p 8000:8000 api_name
 ```
 
   ![image](https://user-images.githubusercontent.com/68152189/127619190-96550e40-f4c9-4f45-9a6b-5ffd929f2c15.png)
